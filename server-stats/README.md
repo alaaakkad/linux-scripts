@@ -2,6 +2,8 @@
 
 A lightweight Bash script to analyze and monitor basic server performance metrics on any Linux system. 
 
+> 💡 **Project Source:** This project is part of the [roadmap.sh Projects](https://roadmap.sh/projects/server-stats) challenge.
+
 ## Features
 - **System Info:** Displays the OS version and server uptime.
 - **CPU Usage:** Calculates total active CPU utilization percentage.
