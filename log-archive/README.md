@@ -3,7 +3,7 @@
 A simple and efficient Bash script to automate the archiving and compression of Linux log directories. This project helps in managing disk space by packaging old logs into timestamped compressed files and maintaining a historical execution log.
 
 This project is part of the learning challenges from **roadmap.sh**.
-- **Project Page:** https://roadmap.sh
+- **Project Page:** https://github.com/alaaakkad/linux-scripts/tree/main/log-archive
 
 ## Features
 - **Input Validation:** Verifies that a directory argument is provided and that the directory actually exists.
