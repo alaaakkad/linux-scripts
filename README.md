@@ -15,7 +15,7 @@ The projects and tools in this repository are built as part of the learning chal
 
 * **[Server Performance Stats](./server-stats/)** - A lightweight script to analyze CPU, Memory, Disk space, and top running processes.
 * **[Log Archive Tool](./log-archive/)** - An automation tool to compress log directories into timestamped archives and log execution history.
-* **Nginx Log Analyser** - A strict command-line DevOps tool to profile traffic footprints, analyze user agents, and calculate bandwidth sizes from Nginx access logs.
+* **[Nginx Log Analyser](./nginx-log-analyser/)** - A strict command-line DevOps tool to profile traffic footprints, analyze user agents, and calculate bandwidth sizes from Nginx access logs.
 
 ## How to Use This Repository
 
