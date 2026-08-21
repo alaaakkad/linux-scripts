@@ -1,0 +1,11 @@
+[Unit]
+Description=Runs the Service Health Checker every minute
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=1min
+AccuracySec=1s
+
+[Install]
+WantedBy=timers.target
+

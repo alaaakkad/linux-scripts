@@ -4,11 +4,12 @@ Welcome to my personal toolbox of Bash scripts. This repository is dedicated to 
 
 ## Project Sources & Credits
 
-The projects and tools in this repository are built as part of the learning challenges from **roadmap.sh**.
+The projects and tools in this repository are built as part of the learning challenges from **roadmap.sh** and custom advanced systems engineering practices.
 
 - **Server Performance Stats Page:** https://roadmap.sh/projects/server-stats
 - **Log Archive Tool Page:** https://roadmap.sh/projects/log-archive-tool
 - **Nginx Log Analyser Page:** https://roadmap.sh/projects/nginx-log-analyser
+
 ---
 
 ## Available Scripts
@@ -16,6 +17,7 @@ The projects and tools in this repository are built as part of the learning chal
 * **[Server Performance Stats](./server-stats/)** - A lightweight script to analyze CPU, Memory, Disk space, and top running processes.
 * **[Log Archive Tool](./log-archive/)** - An automation tool to compress log directories into timestamped archives and log execution history.
 * **[Nginx Log Analyser](./nginx-log-analyser/)** - A strict command-line DevOps tool to profile traffic footprints, analyze user agents, and calculate bandwidth sizes from Nginx access logs.
+* **[Service Health Checker & Auto-Recovery](./services-health-checker/)** - An enterprise-grade, event-driven automation engine scheduled via native **Systemd Timers** to audit system services and trigger localized self-healing procedures with zero-noise local logging.
 
 ## How to Use This Repository
 
